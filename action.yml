@@ -1,7 +1,6 @@
 ---
 name: 'Yashdigi-javascript-action'
 description: 'this is an action print hello world'
-author: 'Yash'
 runs:
   using: 'node16'
   main: 'index.js'
