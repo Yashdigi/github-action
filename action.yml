@@ -5,5 +5,5 @@ runs:
   using: 'node16'
   main: 'index.js'
 branding:
-  icon: 'shield'
+  icon: './dc-512 px.png'
   color: 'yellow'  
